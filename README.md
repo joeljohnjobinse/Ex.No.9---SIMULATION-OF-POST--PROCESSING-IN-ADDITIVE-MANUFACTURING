@@ -1,4 +1,4 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/ea6bde3a-a739-411b-b758-2583dd5e608c)# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,9 +46,39 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+### Support Removal Process:
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/4665110c-b625-49cd-a67a-334b8fed9e0a)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/a0c7c2c4-66d1-4da4-a846-49790512299f)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/e9157f0b-2ce3-454f-b0d2-0dd83ffe34a8)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/7c3ed6cd-f6d9-456b-a3ba-4031a91df1f4)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/d0f52917-31f5-44de-b01b-ac022c21f7dd)
 
-### Name:
-### Register Number:
+### UV Curing of 3D printed part:
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/d6fab245-697b-4674-a05e-4e60d3b4ab07)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/a5ff1ee6-23cc-44c5-bf43-de983cb6bbef)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/8a2396ff-a379-4e45-897f-4cca4b918e3c)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/c274eda0-3273-4ad5-823f-22648158ca23)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/72a64d8e-3e77-4052-90cb-f323ed63cebc)
+
+### Heat Treatment of 3D printed part:
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/7ce875f0-8f4d-4bc2-8c70-9d56bf9dc4b8)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/f6166374-0471-4111-95d8-2d47c42ccb35)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/a41b35e5-9f00-482c-bc1f-7d45e7f2ab62)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/7a0de97b-eb1e-4bdf-ac25-84ab95d78167)
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/10b7d5fe-d91c-4516-88cb-4b5d18d992c3)
+
+### Output:
+### Support Removal Process: 
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/5fc6e82e-9590-4ac0-ac23-847c27dcc927)
+
+### UV Curing of 3D printed part:
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/2d8827b1-172e-4f89-a743-f2974c12dcc6)
+
+### Heat Treatment of 3D printed part:
+![image](https://github.com/joeljohnjobinse/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955488/ca99808b-a343-4608-980f-da516a76c7b2)
+
+### Name: Joel John Jobinse
+### Register Number: 212223240062
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
